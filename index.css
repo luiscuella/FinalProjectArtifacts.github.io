@@ -1,0 +1,24 @@
+body {
+  background-image: url('https://www.nextadvisor.com/blog/wp-content/uploads/2015/09/bigstock-Majestic-alone-beech-tree-on-a-74781802.jpg')
+}
+
+h1{
+  color:orange;
+  text-align: center; 
+}
+
+h2 {
+  
+   color:yellow;
+  text-align: center; 
+  
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    
+}
